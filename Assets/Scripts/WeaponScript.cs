@@ -19,6 +19,7 @@ public class WeaponScript : MonoBehaviour
 	/// Cooldown in seconds between two shots
 	/// </summary>
 	public float shootingRate = 0.25f;
+	public int hola2 = 2;
 	
 	//--------------------------------
 	// 2 - Cooldown
