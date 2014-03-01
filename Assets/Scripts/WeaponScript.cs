@@ -13,6 +13,7 @@ public class WeaponScript : MonoBehaviour
 	/// Projectile prefab for shooting
 	/// </summary>
 	public Transform shotPrefab;
+	public int hola = 1;
 	
 	/// <summary>
 	/// Cooldown in seconds between two shots
